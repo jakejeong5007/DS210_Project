@@ -32,13 +32,13 @@ To run the project, follow these steps:
 
 The application will output several key pieces of information:
 
-- **Graph Summary**: Displays basic information like the number of nodes and edges in the graph.
+- **Graph Summary.txt**: Displays basic information like the number of nodes and edges in the graph.
 
-- **Connected Components**: Shows the identified clusters within the network. Each cluster represents a group of pages that are interconnected.
+- **Connected Components.txt**: Shows the identified clusters within the network. Each cluster represents a group of pages that are interconnected.
 
-- **Centrality Measures**: Outputs the closeness and betweenness centrality scores for each node, highlighting the most influential pages in the network.
+- **Centrality Measures.txt**: Outputs the closeness and betweenness centrality scores for each node, highlighting the most influential pages in the network.
 
-- **Degree Distribution**: Presents the distribution of node degrees across the network, offering insights into the network's structural properties.
+- **Degree Distribution.txt**: Presents the distribution of node degrees across the network, offering insights into the network's structural properties.
 
 ## Conclusion
 
